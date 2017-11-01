@@ -3,11 +3,13 @@ A C++ SplayTree implementation.
 
 It includes a C++ implementation from an Splay Tree.
 
-There's two files:
+There's three files:
 
 -SplayTree.h: Contains the header of the Splay Tree. It's what you have to include to you projects to use the Splay Tree.
 
 -SplayTree.cpp: Real implementation of the Splay Tree. It contains the implementation of all the methods written in SplayTree.h
+
+-test.cpp: Testing file. It uses this SplayTree to execute random operations. It prints all the execution times in "result.dat".
 
 This Splay Tree offers 3 operations:
 
