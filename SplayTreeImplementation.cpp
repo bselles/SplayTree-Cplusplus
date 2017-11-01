@@ -1,7 +1,7 @@
 /*
 	Author: Gabriel Sellés Salvà
 	UCM Student 2016-2017
--*/
+*/
 
 #include "SplayTreeHeader.h"
 
