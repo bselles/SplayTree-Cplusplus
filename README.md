@@ -3,7 +3,7 @@ A C++ SplayTree implementation.
 
 It includes a C++ implementation from an Splay Tree.
 
-There's three files:
+## Files
 
 -SplayTree.h: Contains the header of the Splay Tree. It's what you have to include to you projects to use the Splay Tree.
 
@@ -11,8 +11,7 @@ There's three files:
 
 -test.cpp: Testing file. It uses this SplayTree to execute random operations. It prints all the execution times in "result.dat".
 
-This Splay Tree offers 3 operations:
-
+## Operations 
 -Search(int element): It looks for a node with element as the value associated. It returns true if it founds it. False if not.
 
 -Remove(int element): It looks for a node with element as the value associated and it tries to remove it. It return true if it existed.
